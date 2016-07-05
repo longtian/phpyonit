@@ -19,4 +19,4 @@ This is a sample project demoing how to integrate PHPUnit and YO using Apache An
 
 - [YO Dashboard](http://dev.justyo.co/)
 
-- [YO API Document](http://dev.justyo.co/documents.html)
+- [YO API Document](http://docs.justyo.co/)
